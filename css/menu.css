@@ -1,0 +1,24 @@
+.menu
+{
+    background-image: url(../images/menu.jpg);
+    background-color: #ffffff;
+    width: 886px;
+    height: 32px;
+    /*margin-top: -12px;*/
+    vertical-align: middle;
+    margin-top: 78px;
+}
+.menu p
+{
+    padding-left: 80px;
+    font-weight: bold;
+    /*padding-top: 10px;*/
+    font-size: 12px;
+    /*vertical-align: middle;*/
+    line-height: 32px;
+}
+.menu p a
+{
+    text-decoration: none;
+    color: #ffffff;
+}

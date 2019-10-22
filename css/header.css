@@ -1,0 +1,21 @@
+.preheader
+{
+    background-image: url(../images/preheader.jpg);
+    width: 886px;
+    height:71px ;
+}
+.header
+{
+    background-image: url(../images/header.jpg);
+    background-color: #ffffff;
+    width: 886px;
+    height: 78px;
+    font-weight: bold;
+    float: left;
+}
+.header h3
+{
+    padding-left: 80px;
+    padding-top: 5px;
+    color: white;
+}
